@@ -1,2 +1,6 @@
 # food_sales_predictions
-Predicting sales of various items
+James Belk
+## Loading Data
+## Data Cleaning
+## Exploratory Visuals
+## Explanatory Visuals
